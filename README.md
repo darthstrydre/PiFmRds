@@ -8,6 +8,8 @@ This program generates an FM modulation, with RDS (Radio Data System) data gener
 
 This version modulates the PLL instead of the clock divider for superior signal purity. The harmonics are unaffected, so the [legal warning](#warning-and-disclaimer) still applies.
 
+Additionally, this version aims to increase PT rate to reduce display lag, and pull data from SRT files to allow for time synced lyrics. Consider these changes to be a work in progress.
+
 ![](doc/spectrum.png)
 
 TODO list
